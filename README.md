@@ -31,8 +31,11 @@ The dataset is based on a **real-world survey** conducted among **data professio
 
 ## 📂 Repository Contents
 
-- `Full Project.pbit`: Power BI **template** file containing all transformations, visuals, and layouts  
-- `README.md`: Project documentation (you’re reading it!)
+Full Project.pbit: Power BI template file containing all report visuals, data model, and logic
+
+Power BI - Final Project.xlsx: Excel file with the raw survey data used in the dashboard
+
+README.md: Project documentation and usage instructions
 
 ## 🛠️ How to Use
 
