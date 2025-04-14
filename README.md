@@ -60,12 +60,3 @@ README.md: Project documentation and usage instructions
 - Power Query  
 - DAX (Data Analysis Expressions)
 
-## 📧 Contact
-
-**Author**: [Your Name]  
-**Email**: [your-email@example.com]  
-**YouTube/Tutorial Series**: [Link to YouTube if applicable]
-
-## 📄 License
-
-This project is provided for educational and portfolio use. If you'd like to use the raw survey data for commercial purposes, please contact the author.
